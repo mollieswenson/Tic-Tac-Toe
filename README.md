@@ -1,5 +1,5 @@
 # Tic Tac Toe
 
-[Play Against Computer](computer.html)
+[Play again computer: standard board](computer.html)
 
-[Play Against Local](local.html)
+[Play again computer: variable size board](local.html)
